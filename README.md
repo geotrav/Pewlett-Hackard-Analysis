@@ -4,7 +4,7 @@ The goal of the project is to identify eligible retiring employees at Pewlett Ha
 #### Results
 * Initially the retirement table suggest approximately 133,776 employees are eligible for retirement with birth dates between
 January 1, 1952 and December 31, 1955. 
-![retirement titles first 10](/Data/retirement_titles.png)
+![retirement titles first 10](/Data/Retirement_titles.png)
 
 *  With redundancy titles eliminated the number of eligilble employees drops to 90,398 employees with unique titles.
 
@@ -12,7 +12,7 @@ January 1, 1952 and December 31, 1955.
 ![Retiring Count by Titles](/Data/retiring_titles.png)
 
 * 1549 employees were identified in the data for employees hired in 1965.  The figure below indicates the breakdown of these by title.
-![Eligible mentors by title](/Data/mentors_by_title.png)
+![Eligible mentors by title](/Data/mentorship_by_title.png)
 
 CSV's are located here:
 [retirement_titles.csv](/Data/retirement_titles.csv)
