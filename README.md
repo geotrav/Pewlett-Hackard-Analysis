@@ -28,4 +28,5 @@ CSV's are located here:
 * Several factors need to be considered including are any current employees being mentored or trained as replacements, growth of the company, division needs, and do new mentoered employees replace current retirees on a one to one level.
 * Using the 1965 year there only appears to be 1,549 employees available with the mentor program.  Clearly not enough to mentor the replacements of the silver tsunami.  
 * Using additional queries by broading this range to five birth date years (1960-1965) allows for more mentors eligible.  Tens of thousands more mentors become available broading this birth date criteria.
+
 ![1965-1970 Eligible mentors](/Data/mentors_1960_to_1965.png) 
